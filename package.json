@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "My implementations of popular alogorithms in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brianferrao/Algorithms.git"
+  },
+  "author": "brianferrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianferrao/Algorithms/issues"
+  },
+  "homepage": "https://github.com/brianferrao/Algorithms#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
